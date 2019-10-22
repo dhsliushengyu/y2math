@@ -1,4 +1,7 @@
 # calculate mean salary
+<head>
+  <title>Mean Salaries</title>
+</head>
 
 weekly_salaries = [1000, 1100, 1200, 2100, 2500]
 
